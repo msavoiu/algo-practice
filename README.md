@@ -1,1 +1,3 @@
-# algo-practice
+# algo-stuff
+
+practicing with dsa and c++ :)
